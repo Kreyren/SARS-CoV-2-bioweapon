@@ -26,3 +26,4 @@ Repository dedicated to gather relevant data about the theory of SARS-CoV-2 bein
 4. https://www.independent.co.uk/arts-entertainment/books/news/coronavirus-book-psychic-sally-browne-predict-debunk-a9403076.html
 5. Sona Pekova speaking about her theory about SARS-CoV-2 being created in labolatory in czech language - https://www.youtube.com/watch?v=gG7oEmuVrH0
 6. China has ongoing research on viruses including bats - http://english.whiov.cas.cn/Research2016/Brief_Introduction2017/
+7. Discussion about the origin or SARS-CoV-2 - http://virological.org/t/the-proximal-origin-of-sars-cov-2/398
