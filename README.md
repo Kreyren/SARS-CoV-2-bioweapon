@@ -28,3 +28,4 @@ Repository dedicated to gather relevant data about the theory of SARS-CoV-2 bein
 6. China has ongoing research on viruses including bats - http://english.whiov.cas.cn/Research2016/Brief_Introduction2017/
 7. Discussion about the origin or SARS-CoV-2 - http://virological.org/t/the-proximal-origin-of-sars-cov-2/398
 8. https://www.globalresearch.ca/covid-19-further-evidence-virus-originated-us/5706078
+9. Allegedly china accused USA for creating SARS-CoV-2 - https://www.nytimes.com/2020/03/13/world/asia/coronavirus-china-conspiracy-theory.html
