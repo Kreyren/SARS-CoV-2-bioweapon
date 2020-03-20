@@ -29,3 +29,4 @@ Repository dedicated to gather relevant data about the theory of SARS-CoV-2 bein
 7. Discussion about the origin or SARS-CoV-2 - http://virological.org/t/the-proximal-origin-of-sars-cov-2/398
 8. https://www.globalresearch.ca/covid-19-further-evidence-virus-originated-us/5706078
 9. Allegedly china accused USA for creating SARS-CoV-2 - https://www.nytimes.com/2020/03/13/world/asia/coronavirus-china-conspiracy-theory.html
+10. China, Russia and Iranian media allegedly spreads the info about USA creating SARS-CoV-2 - https://www.defenseone.com/technology/2020/03/iran-and-russian-media-push-bioweapon-conspiracies-amid-covid19-outbreak/163669/
