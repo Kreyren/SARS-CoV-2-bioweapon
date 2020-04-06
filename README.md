@@ -32,4 +32,4 @@ Repository dedicated to gather relevant data about the theory of SARS-CoV-2 bein
 10. China, Russia and Iranian media allegedly spreads the info about USA creating SARS-CoV-2 - https://www.defenseone.com/technology/2020/03/iran-and-russian-media-push-bioweapon-conspiracies-amid-covid19-outbreak/163669/
 11. Evidence agains the theory - http://www.microbe.tv/twiv/twiv-588/
 12. Australian MP demands China to pay compensation for deliberate(?) creation of SARS-CoV-2 in Wuhan lab - https://www.dailymail.co.uk/news/article-8170491/Nationals-MP-George-Christensen-suggests-China-created-coronavirus-Wuhan-lab.html
-13. Australian scientis was able to recreate SARS-CoV-2 in a lab(?) - https://www.bbc.com/news/world-australia-51289897
+13. Australian scientis was able to recreate SARS-CoV-2 in a lab(?) - https://www.bbc.com/news/world-australia-51289897 (old source, seems to be the first who claimed this theory)
